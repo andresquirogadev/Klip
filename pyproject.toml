@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "klip"
+version = "1.0.0"
+description = "A lightweight Windows background tool for SQL snippets and clipboard management"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Microsoft :: Windows",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+dependencies = [
+    # Add your dependencies here, or keep requirements.txt
+]
+
+[project.urls]
+Homepage = "https://github.com/andresquirogadev/Klip"
+Repository = "https://github.com/andresquirogadev/Klip.git"
+Issues = "https://github.com/andresquirogadev/Klip/issues"
+
+[tool.setuptools]
+packages = ["core", "ui"]
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+
+[tool.isort]
+profile = "black"
