@@ -1,0 +1,22 @@
+keyboard==0.13.5
+PyQt6==6.10.0
+PyQt6-Qt6==6.10.0
+PyQt6_sip==13.10.2
+pywin32==311
+pyautogui==0.9.54
+pyperclip
+supabase
+psutil>=5.9.0
+requests>=2.28.0
+
+# Security packages
+cryptography>=41.0.0
+pyinstaller>=6.0.0
+
+# Optional: Advanced obfuscation (recommended for production)
+# pyarmor>=8.0.0
+
+# Optional: Icon conversion
+# Pillow>=10.0.0
+httpx>=0.24.0
+PyInstaller>=6.0.0

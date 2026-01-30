@@ -1,0 +1,18 @@
+{
+  "supabase_url": "https://riuailqsymlzpheojjps.supabase.co",
+  "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJpdWFpbHFzeW1senBoZW9qanBzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI2MDc0MjUsImV4cCI6MjA3ODE4MzQyNX0.p2yHf7blyfdU6CUhGIA9Y66LGDBnn4wBP1uRVcgojjE",
+  "hotkeys": {
+    "shift_1": "delete_temporales",
+    "shift_2": "insert_cliente",
+    "shift_3": "join_contratos",
+    "shift_4": "Ninguno",
+    "shift_5": "insert_cliente",
+    "shift_6": "Ninguno",
+    "shift_7": "Ninguno",
+    "shift_8": "Ninguno",
+    "shift_9": "Ninguno",
+    "shift_0": "Ninguno"
+  },
+  "is_portable": true,
+  "auto_start": true
+}
