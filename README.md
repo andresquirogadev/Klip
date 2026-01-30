@@ -3,6 +3,8 @@
 A lightweight Windows background tool that provides instant access
 to frequently-used SQL snippets and clipboard content.
 
+**Repository:** https://github.com/andresquirogadev/Klip.git
+
 ## Why
 Developers and operators often need to copy the same SQL queries,
 identifiers, commands or snippets multiple times a day. This tool reduces friction
